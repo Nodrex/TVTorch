@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 	static{
 		try {
 			RESTART_TRY_COUNTER = 2;
-			TRY_COUNTER_KEY = "nodrex.TVSleepr.app.restratTryCounterKey";
+			TRY_COUNTER_KEY = "nodrex.TVTorch.app.restratTryCounterKey";
 		} catch (Exception e) {}
 		  catch (Throwable t) {}
 	}
